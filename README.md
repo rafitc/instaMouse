@@ -9,7 +9,7 @@ Enjoy keyboarding :)
 
 # How to use 
 
-Make sure you have pyautoGUI, keyboard and time module if not:<br/>
+Install pyautoGUI, keyboard and time module:
 `pip install PyAutoGUI`<br/>
 `pip install keyboard`<br/>
 `pip install times`<br/>
