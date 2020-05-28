@@ -6,3 +6,19 @@ So, while using Instagram on Laptop. It's bit difficulty to like others photo on
 To void these I made a small python script to Like(give heart) by clicking "h" button in keyboard. Also "p" for playing video 
 
 Enjoy keyboarding :)
+
+# How to use 
+
+Make sure you have pyautoGUI, keyboard and time module if not:<br/>
+`pip install PyAutoGUI`<br/>
+`pip install keyboard`<br/>
+`pip install times`<br/>
+<h2> Then, run python script </h2>
+
+``` 
+git clone https://github.com/rafitc/instaMouse/ 
+cd instaMouse 
+python new.py
+```
+
+
